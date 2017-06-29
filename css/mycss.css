@@ -1,0 +1,136 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	min-width: 320px;
+}
+.normalblue{
+	color: #3e5481 ;
+}
+.container{
+    width: 70%;
+	margin: 0 auto;	
+	margin-top: 60px;
+}
+.pageon{
+	background-color: #669999 ;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 30px;
+	font-size: 27px;
+	margin-left: -10%;
+	margin-right: -10%;
+	border-radius: 10px;
+}
+.pageoff{
+	background-color:#ccc599  ;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	font-size: 24px;
+	border-radius: 4px;
+
+}
+.header-img{
+    float: left;
+    width: 40%;
+}
+.header-img img{
+	width: 80%;
+}
+.header-text{
+line-height: 28px;
+text-align: justify;
+}
+.partone-title{
+	font-size: 25px;
+	text-align: center;
+	padding: 20px;
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+.partone-text{
+	width: 50%;	
+	line-height: 28px;
+	text-align: justify;
+	margin-bottom: 110px;
+}
+.partone-img{
+	width: 42%;
+	float: right;
+}
+.partone-img img{
+    display: block;
+	width: 100%;
+}
+.partone-textone{
+	margin: 0 auto;
+	text-align: justify;
+	width: 75%;
+	line-height: 28px;
+}
+.partone-textonw{
+	margin: 0 auto;
+	text-align: left;
+	width: 75%;
+	line-height: 28px;
+}
+.partone-textonr{
+	text-align: left;
+	width: 75%;
+	line-height: 28px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.parttwo-first p{
+	font-size: 20px;
+	text-align: left;
+}
+.parttwo-first{
+	margin-bottom: 10px;
+	text-align: center;
+
+}
+.parttwo-sec {
+text-align: center;
+}
+.parttwo-sec p{
+	font-size: 20px;
+	text-align: left;
+}
+.parttwo-foot{
+	font-size: 22px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+.partthr-img{
+	margin-top: 20px;
+	text-align: center;
+}
+.partthr-img img{
+	width: 45%;
+}
+.partone-textone h2{
+	text-align: center;
+}
+.bigone{
+	font-size: 20px;
+}
+.partfour-table{
+	line-height: 58px;
+	font-size: 13px;
+	text-align: center;
+	border-spacing: 0;
+	margin: 0 auto;
+
+}
+.special-tr{
+	background-color: 
+#669999  ;
+}
+
